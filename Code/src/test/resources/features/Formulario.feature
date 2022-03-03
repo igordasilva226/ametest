@@ -19,11 +19,11 @@ Funcionalidade: Formulario de teste
     E montar os lanches com os respectivos ingredientes
     E informar a data de hoje
     Quando informar o horario adicionando uma hora
-	  Então clico no botao enviar
+    Então clico no botao enviar
 
     Exemplos: 
       | nome             | email                | cor      | sobremesa | numero | comida  |
-#      | Maria da Silva   | igorctc226@gmail.com | Azul     | Sorvete   |      5 | Carnes  |
-#      | Joao da Silva    | igorctc226@gmail.com | Vermelho | Bolo      |      8 | Todas   |
-#      | Pedro da Silva   | igorctc226@gmail.com | Verde    | Fruta     |     10 | Massas  |
+      | Maria da Silva   | igorctc226@gmail.com | Azul     | Sorvete   |      5 | Carnes  |
+      | Joao da Silva    | igorctc226@gmail.com | Vermelho | Bolo      |      8 | Todas   |
+      | Pedro da Silva   | igorctc226@gmail.com | Verde    | Fruta     |     10 | Massas  |
       | Matheus da Silva | igorctc226@gmail.com | Azul     | Mamão     |      1 | Legumes |
