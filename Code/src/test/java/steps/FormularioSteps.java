@@ -71,12 +71,13 @@ public class FormularioSteps {
 		case "Carnes":
 			formulario.selecionarCarnes();
 				break;
-		case "Fruta":
+		case "Legumes":
 			formulario.selecionarLegumes();
 			break;
 		case "Massas":
 			formulario.selecionarMassas();
 			break;
+		
 		
 	}
 		Thread.sleep(2000);
